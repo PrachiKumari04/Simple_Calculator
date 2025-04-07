@@ -1,4 +1,5 @@
 Only the main file 
+This project is build in React JS
 
 To create this u need to ollow the following commands in cmd 
 1. Create a folder
